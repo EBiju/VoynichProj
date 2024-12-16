@@ -16,5 +16,6 @@ This project can be used very simply as long as you have IntelliJ installed. Sho
 
 Source of the Voynich Manuscript Page image: https://collections.library.yale.edu/catalog/2002046
 Source for the computer text file I used to decript within the project: https://www.voynich.nu/q01/f007r_tr.txt
-The source of the layout and code of my project is by user Joe Oakes on Github. Here is his project I used as a base for my own: https://github.com/joeoakes/javaConstitutionManuscript
+The source of the layout and code of my project is by user Joe Oakes on Github. Here is his project I used as a base for my own:
+https://github.com/joeoakes/javaConstitutionManuscript
 
