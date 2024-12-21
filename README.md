@@ -1,7 +1,7 @@
 # VoynichProj
 This project will attempt to decipher page 7r from the Voynich Manuscrupt. The image is from the Yale University Library. Within it, I take the computer readable text and attempt to decrypt it. Here are the steps I took and my results:
 
-1.	I Set up a text file based containing the text from the page in English. The English is made to closely resemble the actual text within the page.
+1.	I Set up a text file based containing the text from the page in English. The English is made to closely resemble the actual text within the page. In the second revision, I have added the text for pages 7v and 8r as well.
 2.	Then I set up a dictionary of words to look for when attempting to decipher the text. The words I chose specifically included languages spoken during the time of creation of the Voynich manuscript” Spanish, Latin, Italian, and French. Because the page to me is shaped like a poem, I decided to use words that would be commonly seen in a poem. Words are time, love, world, and day.
 3.	With the computer readable and dictionary texts, I put them through a brute force shift decrypt or to see if I could find any of the dictionary or English word. This was done using a
 counter control for loops to go through every kind of alphabetical shift beginning at 0 to 25, the maximum amount of shifts you can make before landing on square one.
